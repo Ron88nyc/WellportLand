@@ -1,7 +1,7 @@
 # Wellport
 Client Logistic website displaying their work as well as contact accessibility for the customer. Created customization of logo and refresher thumbnail.
 
-Link to project: 
+Link to project: https://app.netlify.com/sites/wellportone/overview
 
 alt tag
 
